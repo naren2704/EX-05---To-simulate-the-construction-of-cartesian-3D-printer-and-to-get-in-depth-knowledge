@@ -61,8 +61,8 @@
 ![image](https://github.com/user-attachments/assets/2914cbd1-dda1-4b02-88c7-2a56625360d7)
 
 
-### Name: Markandeyan Gokul
-### Register Number: 212224240086
+### Name: NARENDRAN B
+### Register Number: 212222240069
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
